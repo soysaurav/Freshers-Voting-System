@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>Y26 Freshers Gala | Live Voting & Reveal System</title>
+  <meta name="description" content="Live interactive voting and dramatic stage reveal system for Y26 Freshers Night.">
+  <script src="/js/auto-fullscreen.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .hero-section {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 3rem 1.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-glow-1 {
+      top: 10%;
+      left: 20%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(99, 102, 241, 0.28) 0%, transparent 70%);
+    }
+
+    .hero-glow-2 {
+      bottom: 10%;
+      right: 15%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(236, 72, 153, 0.22) 0%, transparent 70%);
+    }
+
+    .hero-badge {
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-title {
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+      line-height: 1.1;
+      margin-bottom: 1.25rem;
+      max-width: 900px;
+    }
+
+    .hero-subtitle {
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: var(--text-muted);
+      max-width: 650px;
+      margin-bottom: 3rem;
+    }
+
+    .portal-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.75rem;
+      width: 100%;
+      max-width: 1050px;
+      z-index: 2;
+    }
+
+    .portal-card {
+      padding: 2.25rem 2rem;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+      border-radius: var(--radius-xl);
+    }
+
+    .portal-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--card-accent, var(--primary-gradient));
+      opacity: 0.8;
+    }
+
+    .portal-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1.25rem;
+      width: 60px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-subtle);
+    }
+
+    .portal-card h3 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .portal-card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 1.75rem;
+      flex-grow: 1;
+    }
+
+    .live-stats-bar {
+      margin-top: 3.5rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 2rem;
+      padding: 0.85rem 2rem;
+      background: rgba(18, 16, 38, 0.7);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-full);
+      backdrop-filter: blur(12px);
+      z-index: 2;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    .stat-item strong {
+      color: var(--text-main);
+      font-size: 1.05rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="ambient-glow hero-glow-1"></div>
+  <div class="ambient-glow hero-glow-2"></div>
+
+  <main class="hero-section container">
+    <div class="hero-badge">
+      <span class="badge badge-gold" id="eventBadge">🎉 Y26 Freshers Night</span>
+      <span class="badge badge-live" id="systemStatus">System Online</span>
+    </div>
+
+    <h1 class="hero-title">
+      Vote Your Favorites, <br>
+      <span class="text-gradient">Experience The Big Stage Reveal</span>
+    </h1>
+
+    <p class="hero-subtitle">
+      Real-time peer voting for Y26 freshers titles & awards, culminating in a cinematic projector countdown and dramatic winner reveal.
+    </p>
+
+    <div class="portal-grid">
+      <!-- Voter Portal -->
+      <a href="/vote" class="glass-card portal-card" style="--card-accent: var(--primary-gradient); text-decoration: none;">
+        <div class="portal-icon">📱</div>
+        <div class="badge badge-live" style="align-self: flex-start; margin-bottom: 0.85rem;">Attendee Mobile</div>
+        <h3>Cast Your Vote</h3>
+        <p>Browse nominees for Mr. & Ms. Freshers and specialty titles, and lock in your vote from your phone.</p>
+        <div class="btn btn-primary" id="btnGoVote">Open Voting Portal &rarr;</div>
+      </a>
+
+      <!-- Stage Reveal Display -->
+      <a href="/stage" class="glass-card portal-card" style="--card-accent: var(--gold-gradient); text-decoration: none;">
+        <div class="portal-icon">🎬</div>
+        <div class="badge badge-gold" style="align-self: flex-start; margin-bottom: 0.85rem;">Audience Projector</div>
+        <h3>Big Stage Reveal</h3>
+        <p>Full-screen cinematic visualizer for the auditorium screen with suspense drumrolls, countdowns, and confetti.</p>
+        <div class="btn btn-gold" id="btnGoStage">Launch Stage Screen &rarr;</div>
+      </a>
+
+      <!-- Host Admin -->
+      <a href="/admin" class="glass-card portal-card" style="--card-accent: var(--cyan-gradient); text-decoration: none;">
+        <div class="portal-icon">🎛️</div>
+        <div class="badge" style="align-self: flex-start; margin-bottom: 0.85rem;">Host & Council</div>
+        <h3>Admin Console</h3>
+        <p>Manage candidate profiles, monitor incoming votes in real-time, lock polls, and trigger live stage reveals.</p>
+        <div class="btn btn-secondary" id="btnGoAdmin">Enter Admin Hub &rarr;</div>
+      </a>
+    </div>
+
+    <div class="live-stats-bar">
+      <div class="stat-item">
+        <span id="statLabel1">Active Award:</span>
+        <strong id="activeCategoryName">Loading...</strong>
+      </div>
+      <div class="stat-item">
+        <span id="statLabel2">Total Votes:</span>
+        <strong id="totalVotesCount">0</strong>
+      </div>
+      <div class="stat-item">
+        <span id="statLabel3">Voting Status:</span>
+        <strong id="votingStatusText">Open</strong>
+      </div>
+    </div>
+  </main>
+
+  <script src="/js/socket-client.js"></script>
+  <script>
+    const socket = new VotingSocket({
+      onConnect: () => {
+        document.getElementById('systemStatus').className = 'badge badge-live';
+        document.getElementById('systemStatus').textContent = 'Connected Live';
+      },
+      onDisconnect: () => {
+        document.getElementById('systemStatus').className = 'badge badge-locked';
+        document.getElementById('systemStatus').textContent = 'Reconnecting...';
+      },
+      onStateUpdate: (data) => {
+        if (!data) return;
+        if (data.settings && data.settings.eventName) {
+          document.getElementById('eventBadge').textContent = '🎉 ' + data.settings.eventName;
+        }
+
+        const statLabel1 = document.getElementById('statLabel1');
+        const statLabel2 = document.getElementById('statLabel2');
+        const statLabel3 = document.getElementById('statLabel3');
+        const activeCategoryName = document.getElementById('activeCategoryName');
+        const totalVotesCount = document.getElementById('totalVotesCount');
+        const statusEl = document.getElementById('votingStatusText');
+
+        const isLiveRatingMode = data.settings && data.settings.stageMode === 'live_rating';
+
+        if (isLiveRatingMode) {
+          statLabel1.textContent = 'Stage Performer:';
+          statLabel2.textContent = 'Total Ratings:';
+          statLabel3.textContent = 'Rating Line:';
+
+          const activeRoll = data.settings.liveRating ? data.settings.liveRating.activePerformerRoll : null;
+          const performer = (data.roster || []).find(p => p.roll_no === activeRoll);
+          activeCategoryName.textContent = performer ? '⭐ ' + performer.name : 'Awaiting Performer';
+
+          const totalRatings = (data.performerRatings || []).length;
+          totalVotesCount.textContent = totalRatings;
+
+          const isLineOpen = data.settings.liveRating ? data.settings.liveRating.isOpen : false;
+          statusEl.textContent = isLineOpen ? 'Open (1-10)' : 'Closed';
+          statusEl.style.color = isLineOpen ? '#34d399' : '#f87171';
+        } else {
+          statLabel1.textContent = 'Active Award:';
+          statLabel2.textContent = 'Total Votes:';
+          statLabel3.textContent = 'Voting Status:';
+
+          const categories = data.categories || [];
+          const activeCat = categories.find(c => c.id === data.settings.activeCategoryId) || categories[0];
+          activeCategoryName.textContent = activeCat ? activeCat.title : 'Ready to Start';
+
+          const totalVotes = (data.votes || []).length;
+          totalVotesCount.textContent = totalVotes;
+
+          const isOpen = data.settings ? data.settings.votingOpen : true;
+          statusEl.textContent = isOpen ? 'Open' : 'Locked';
+          statusEl.style.color = isOpen ? '#34d399' : '#f87171';
+        }
+      }
+    });
+  </script>
+</body>
+</html>

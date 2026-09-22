@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>Vote | Y26 Freshers Gala</title>
+  <meta name="description" content="Anonymous peer voting and live performance rating for Y26 Freshers.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/vote.css">
+  <script src="/js/auth-guard.js"></script>
+</head>
+<body class="vote-page">
+  <!-- Top Navigation Header -->
+  <header class="vote-header" style="padding: 0.5rem 1rem;">
+    <div class="vote-header-inner">
+      <div style="display: flex; align-items: center; gap: 0.45rem;">
+        <span style="font-size: 1.15rem;">✨</span>
+        <h1 style="font-size: 1.05rem; font-weight: 700; line-height: 1.2; margin: 0;" id="voteHeaderTitle">Freshers' Night</h1>
+      </div>
+
+      <div class="badge" id="voteOnlineBadge" style="background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.4); color: #34d399; font-size: 0.75rem; font-weight: 700; display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.25rem 0.65rem; border-radius: var(--radius-full);">
+        <span style="width: 6px; height: 6px; border-radius: 50%; background: #10b981; display: inline-block; box-shadow: 0 0 8px #10b981;"></span>
+        <span id="voteOnlineCount">0</span> Online
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="padding: 0 0.75rem; margin-top: 0.5rem;">
+    <!-- Global Locked Banner (if host locks category voting) -->
+    <div id="voteLockedBanner" class="locked-banner" style="display: none;">
+      <span style="font-size: 1.3rem;">🔒</span>
+      <div>
+        <strong style="display: block; font-size: 0.9rem;">Category Voting is Paused</strong>
+        <span style="font-size: 0.78rem;">Look at the main stage projector!</span>
+      </div>
+    </div>
+
+    <!-- ======================================================== -->
+    <!-- SECTION A: CATEGORY VOTING -->
+    <!-- ======================================================== -->
+    <div id="categoryVotingSection">
+      <!-- VIEW 1: CATEGORIES LIST VIEW -->
+      <section id="categoriesView">
+        <div style="text-align: center; max-width: 500px; margin: 0 auto 1rem;">
+          <h2 style="font-size: 1.45rem; margin-bottom: 0.25rem;" class="text-gradient">
+            Select an Award Category
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.85rem;">
+            Tap a category below to browse nominees and cast your vote.
+          </p>
+        </div>
+
+        <div class="categories-grid" id="categoriesGrid">
+          <!-- Filled dynamically -->
+        </div>
+      </section>
+
+      <!-- VIEW 2: NOMINEES LIST VIEW (Appears on tapping category) -->
+      <section id="nomineesView" style="display: none;">
+        <div class="cat-header-nav">
+          <button type="button" class="btn-back" id="btnBackToCategories">
+            &larr; All Categories
+          </button>
+        </div>
+
+        <div class="glass-card" style="padding: 1.25rem; margin-bottom: 1rem; border-radius: var(--radius-lg);">
+          <h2 style="font-size: 1.35rem; margin-bottom: 0.25rem; display: flex; align-items: center; gap: 0.45rem;" id="activeCategoryTitleText">Loading...</h2>
+          <p style="color: var(--text-muted); font-size: 0.85rem;" id="activeCategoryDescText"></p>
+          <div id="categoryVotedBanner" style="margin-top: 0.6rem; display: none;">
+            <span class="badge badge-live" style="font-size: 0.75rem;">✓ Vote Recorded</span>
+          </div>
+        </div>
+
+        <!-- Nominee Cards Grid (Name and Image only) -->
+        <div class="candidate-grid" id="nomineesGrid">
+          <!-- Filled dynamically -->
+        </div>
+      </section>
+    </div>
+
+    <!-- ======================================================== -->
+    <!-- SECTION B: LIVE STAGE PERFORMER RATING (1-10) -->
+    <!-- ======================================================== -->
+    <div id="liveRatingSection" style="display: none;">
+      <div id="noPerformerBox" style="text-align: center; padding: 3rem 1rem; max-width: 500px; margin: 0 auto;">
+        <div style="font-size: 3rem; margin-bottom: 0.75rem;">🎤</div>
+        <h3 style="font-size: 1.3rem; margin-bottom: 0.35rem;">Live Voting</h3>
+        <p style="color: var(--text-muted); font-size: 0.88rem;">
+          When a fresher is performing on stage, the host will open the 1-10 rating line here!
+        </p>
+      </div>
+
+      <div id="activePerformerCard" class="live-rating-box" style="display: none;">
+        <div class="badge badge-gold" id="performerLineStatusVoteBadge" style="margin-bottom: 1rem;">🔴 Live on Stage</div>
+
+        <!-- Large Showcase Photo (takes prominent space, not a small profile avatar) -->
+        <div class="live-performer-showcase">
+          <div class="live-performer-photo" id="livePerformerPhoto">?</div>
+        </div>
+
+        <h2 style="font-size: 2rem; font-weight: 800; margin-bottom: 0.6rem;" id="livePerformerName" class="gold-gradient">Performer Name</h2>
+
+        <!-- Interactive 1 to 10 Score Slider -->
+        <div class="rating-slider-box" id="ratingSliderBox">
+          <div class="slider-score-display">
+            <span class="slider-score-star">⭐</span>
+            <span class="slider-score-number" id="sliderScoreDisplay">8</span>
+            <span class="slider-score-total">/ 10</span>
+          </div>
+
+          <div class="slider-input-container">
+            <input type="range" id="performerScoreSlider" min="1" max="10" step="1" value="8" class="rating-slider-input">
+            <div class="slider-descriptors-row">
+              <span class="slider-desc-left">Meh</span>
+              <span class="slider-desc-right">Paisa Vasool!</span>
+            </div>
+          </div>
+        </div>
+
+        <button type="button" class="btn btn-gold btn-lg" id="btnSubmitRating" style="width: 100%; max-width: 440px; margin-top: 0.75rem; padding: 0.95rem 1.75rem; font-size: 1.05rem;">
+          Submit Your Vote
+        </button>
+      </div>
+    </div>
+  </main>
+
+  <!-- Vote Confirmation Modal -->
+  <div class="modal-backdrop" id="voteConfirmModal">
+    <div class="modal-content">
+      <div style="font-size: 2.2rem; margin-bottom: 0.5rem; text-align: center;">👑</div>
+      <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem; text-align: center;" id="modalNomineeName">Vote Confirmation</h3>
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem; text-align: center;" id="modalNomineeCategory">
+        Are you sure you want to cast your anonymous vote?
+      </p>
+
+      <div style="display: flex; gap: 0.75rem;">
+        <button type="button" class="btn btn-secondary" style="flex: 1;" id="btnCancelModalVote">Cancel</button>
+        <button type="button" class="btn btn-gold" style="flex: 1;" id="btnConfirmModalVote">Confirm Vote</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fullscreen Expanded Photo Modal (Tap to Expand with Back Button Support) -->
+  <div id="imageLightboxModal" class="image-lightbox-modal" style="display: none;">
+    <div class="lightbox-backdrop" id="imageLightboxBackdrop"></div>
+    <button type="button" class="lightbox-close-btn" id="btnCloseImageLightbox" aria-label="Close image">
+      ✕
+    </button>
+    <div class="lightbox-content">
+      <img id="lightboxExpandedImg" src="" alt="Performer Photo" class="lightbox-img">
+      <div id="lightboxPerformerName" class="lightbox-performer-name"></div>
+    </div>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <!-- Scripts -->
+  <script src="/js/audio-fx.js"></script>
+  <script src="/js/socket-client.js"></script>
+  <script src="/js/vote.js"></script>
+</body>
+</html>

@@ -1,0 +1,4269 @@
+{
+  "settings": {
+    "eventName": "Freshers' Night",
+    "activeCategoryId": null,
+    "votingOpen": true,
+    "revealState": {
+      "categoryId": null,
+      "isRevealed": false,
+      "countdownActive": false,
+      "countdownSeconds": 3
+    },
+    "stageMode": "live_rating",
+    "liveRating": {
+      "activePerformerRoll": "261310609",
+      "isOpen": false,
+      "revealState": {
+        "isRevealed": false,
+        "winner": null,
+        "awardTitle": "Ms. Fresher 2026"
+      }
+    },
+    "hasCustomQr": false,
+    "qrUrl": null,
+    "customQrUrl": null,
+    "activeTaskId": "task-1789899838228",
+    "activeTaskTitle": "Ban Jaao Nashedi Nikaal Do Hekdi",
+    "stageCustomImage": null,
+    "latentTitle": {
+      "line1": "FRESHERS'",
+      "line2": "GOT LATENT"
+    }
+  },
+  "categories": [],
+  "candidates": [],
+  "votes": [],
+  "personPhotos": {},
+  "performerRatings": [
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 7,
+      "timestamp": "2026-09-20T19:29:32.516493"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:02.859291"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:04.306452"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:05.517312"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:05.617647"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:22.590238"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 5,
+      "timestamp": "2026-09-20T19:29:06.061228"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:06.208582"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:06.366825"
+    },
+    {
+      "voterId": "anon-y3tnq8i3dmb1",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:06.400310"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:06.844879"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:08.904681"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:08.942554"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:18.772945"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 6,
+      "timestamp": "2026-09-20T19:29:09.740155"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:10.909238"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:12.214528"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:12.348419"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 6,
+      "timestamp": "2026-09-20T19:29:12.443658"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 1,
+      "timestamp": "2026-09-20T19:29:12.975371"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 5,
+      "timestamp": "2026-09-20T19:29:13.246746"
+    },
+    {
+      "voterId": "anon-zn9bhtu0u52p",
+      "ipAddress": "172.17.247.170",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 1,
+      "timestamp": "2026-09-20T19:29:35.092827"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:15.373229"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:16.636032"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:17.512039"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:18.765292"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:19.057085"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:20.464904"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 6,
+      "timestamp": "2026-09-20T19:29:22.710345"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:23.045058"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 7,
+      "timestamp": "2026-09-20T19:29:23.414723"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:29.122363"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310608",
+      "roll_no": "261310608",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:30.973889"
+    },
+    {
+      "voterId": "anon-zn9bhtu0u52p",
+      "ipAddress": "172.17.247.170",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 1,
+      "timestamp": "2026-09-20T19:29:38.792584"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:49.513243"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 1,
+      "timestamp": "2026-09-20T19:29:39.004300"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:39.837818"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:40.168722"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:40.401497"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:40.685197"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:40.935672"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:41.302003"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:41.487356"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:41.794228"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:41.857902"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:42.098953"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:42.396432"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:42.807767"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:42.981554"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:43.479353"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 5,
+      "timestamp": "2026-09-20T19:29:43.751165"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:43.844910"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:44.213897"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:44.528786"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:44.744001"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:45.082796"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:45.281278"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:45.289279"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:45.759535"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:45.847643"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:47.139492"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:47.727940"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:48.553664"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 9,
+      "timestamp": "2026-09-20T19:29:51.098848"
+    },
+    {
+      "voterId": "anon-y3tnq8i3dmb1",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:55.887694"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 9,
+      "timestamp": "2026-09-20T19:30:06.870483"
+    },
+    {
+      "voterId": "anon-8gf38be3v0wc",
+      "ipAddress": "172.17.245.62",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:29:58.218577"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 8,
+      "timestamp": "2026-09-20T19:29:59.586888"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310613",
+      "roll_no": "261310613",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:01.109927"
+    },
+    {
+      "voterId": "anon-y3tnq8i3dmb1",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:12.106211"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:28.690430"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:13.072384"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:13.643385"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:24.589953"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:14.276024"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:14.405815"
+    },
+    {
+      "voterId": "anon-8gf38be3v0wc",
+      "ipAddress": "172.17.245.62",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:14.627826"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:14.858666"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:15.129893"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:15.622735"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:16.852604"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:16.889697"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:16.926274"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:30.599946"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:17.568673"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:18.377330"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:18.868337"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:19.137768"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:19.437646"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:20.444387"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:21.245106"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:22.424823"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 3,
+      "timestamp": "2026-09-20T19:30:22.920936"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:23.315565"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:23.552877"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:24.516623"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:24.634445"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:25.021791"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:25.863675"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:25.943325"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:27.635424"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:32.062407"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:32.205068"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:33.992558"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310009",
+      "roll_no": "261310009",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:34.035582"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:35.696633"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:36.222730"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:36.431577"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:36.446602"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:36.590537"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:37.587096"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:37.760464"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:38.331132"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:38.342200"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:38.435770"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:51.473671"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:39.017272"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:39.224368"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:39.297390"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 9,
+      "timestamp": "2026-09-20T19:30:39.389110"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:40.504238"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:40.632301"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:40.702849"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:40.991307"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:41.005324"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:41.384865"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 10,
+      "timestamp": "2026-09-20T19:30:41.644778"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:41.809969"
+    },
+    {
+      "voterId": "anon-y3tnq8i3dmb1",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:42.284166"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:43.616673"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:44.344310"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 9,
+      "timestamp": "2026-09-20T19:30:44.682462"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:47.092339"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:47.676098"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:48.901174"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:49.398243"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:50.471625"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.30.2.174",
+      "rollNo": "261310611",
+      "roll_no": "261310611",
+      "score": 3,
+      "timestamp": "2026-09-20T19:30:52.732500"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:55.308855"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:56.761363"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:56.919534"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:57.296259"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 2,
+      "timestamp": "2026-09-20T19:30:57.384820"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:30:57.466858"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 1,
+      "timestamp": "2026-09-20T19:30:57.534223"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 6,
+      "timestamp": "2026-09-20T19:30:57.675879"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 3,
+      "timestamp": "2026-09-20T19:30:58.074495"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:58.252106"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:58.265126"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:30:58.280104"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 5,
+      "timestamp": "2026-09-20T19:30:59.221142"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 7,
+      "timestamp": "2026-09-20T19:30:59.243138"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:00.146160"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 1,
+      "timestamp": "2026-09-20T19:31:00.205988"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:00.233988"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:01.069210"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.30.2.174",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 3,
+      "timestamp": "2026-09-20T19:31:01.197175"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:01.592304"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:01.651811"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:02.093069"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:03.586248"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:04.584324"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:05.028188"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:31:07.516653"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:10.028466"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:12.385249"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:12.940325"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:31:13.121497"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "252310601",
+      "roll_no": "252310601",
+      "score": 3,
+      "timestamp": "2026-09-20T19:31:13.547094"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:48.958455"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:49.191624"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:49.205630"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:49.575432"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:32:13.081833"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.30.2.174",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:49.790851"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 1,
+      "timestamp": "2026-09-20T19:31:49.805811"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:49.817885"
+    },
+    {
+      "voterId": "anon-rf4qn2a7bh04",
+      "ipAddress": "172.17.246.31",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:53.227932"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:50.337026"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:50.394147"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 3,
+      "timestamp": "2026-09-20T19:31:51.537229"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:50.506097"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:50.608289"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:50.719736"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:50.853851"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:52.413180"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 9,
+      "timestamp": "2026-09-20T19:31:53.676237"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 8,
+      "timestamp": "2026-09-20T19:31:51.386292"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:51.451042"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:51.648699"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 2,
+      "timestamp": "2026-09-20T19:31:51.742730"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:54.412045"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:31:53.041399"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 6,
+      "timestamp": "2026-09-20T19:31:53.360490"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 8,
+      "timestamp": "2026-09-20T19:31:57.164031"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:31:57.429545"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 8,
+      "timestamp": "2026-09-20T19:31:58.044191"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 7,
+      "timestamp": "2026-09-20T19:31:58.998185"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 4,
+      "timestamp": "2026-09-20T19:31:59.292435"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 5,
+      "timestamp": "2026-09-20T19:32:02.751469"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 6,
+      "timestamp": "2026-09-20T19:32:03.448656"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310013",
+      "roll_no": "261310013",
+      "score": 10,
+      "timestamp": "2026-09-20T19:32:04.016283"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:52.286574"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:50.386282"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:56.053243"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:56.842679"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:56.946262"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:57.039683"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:57.410825"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:57.665519"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:57.835835"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:58.150333"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:58.908001"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:42:59.265349"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 7,
+      "timestamp": "2026-09-20T19:42:59.379445"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:00.456654"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:00.582080"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:01.718979"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:01.735004"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:02.879903"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:04.150326"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:04.326424"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:04.420846"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:08.406349"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:43:10.284352"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:10.851334"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:11.771099"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.213",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:12.347606"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:12.633699"
+    },
+    {
+      "voterId": "anon-iryi4p4qpcmd",
+      "ipAddress": "172.17.247.201",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:43:12.896326"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:13.822799"
+    },
+    {
+      "voterId": "anon-8gf38be3v0wc",
+      "ipAddress": "172.17.245.62",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:13.898386"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:14.206789"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:17.614087"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:19.022865"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:43:21.013624"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:23.610551"
+    },
+    {
+      "voterId": "anon-zj5sb5jzbkot",
+      "ipAddress": "172.17.245.10",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 9,
+      "timestamp": "2026-09-20T19:43:24.562930"
+    },
+    {
+      "voterId": "anon-vi3d076mb6rr",
+      "ipAddress": "172.17.246.166",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 8,
+      "timestamp": "2026-09-20T19:43:25.820512"
+    },
+    {
+      "voterId": "anon-zn9bhtu0u52p",
+      "ipAddress": "172.17.247.170",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 10,
+      "timestamp": "2026-09-20T19:43:29.061184"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.246.214",
+      "rollNo": "261310601",
+      "roll_no": "261310601",
+      "score": 7,
+      "timestamp": "2026-09-20T19:43:31.387719"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:37.559362"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:38.100596"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:38.215363"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:38.686737"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:38.716284"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:38.733285"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:39.541015"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:40.424085"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:40.075434"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 9,
+      "timestamp": "2026-09-20T19:51:40.097438"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 6,
+      "timestamp": "2026-09-20T19:51:42.691030"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:40.480441"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:42.737601"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:44.293260"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:41.685639"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 4,
+      "timestamp": "2026-09-20T19:51:41.985533"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:42.315932"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:51.913616"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 9,
+      "timestamp": "2026-09-20T19:51:44.986016"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:45.098001"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:45.116036"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 6,
+      "timestamp": "2026-09-20T19:51:47.426970"
+    },
+    {
+      "voterId": "anon-zj5sb5jzbkot",
+      "ipAddress": "172.17.245.10",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 7,
+      "timestamp": "2026-09-20T19:51:47.512008"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 6,
+      "timestamp": "2026-09-20T19:51:48.767098"
+    },
+    {
+      "voterId": "anon-83lb3clxmyas",
+      "ipAddress": "172.17.247.201",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 2,
+      "timestamp": "2026-09-20T19:51:49.495629"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 6,
+      "timestamp": "2026-09-20T19:51:49.795234"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:50.552932"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:50.831508"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 10,
+      "timestamp": "2026-09-20T19:51:52.078526"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 8,
+      "timestamp": "2026-09-20T19:51:52.711381"
+    },
+    {
+      "voterId": "anon-vi3d076mb6rr",
+      "ipAddress": "172.17.246.166",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 9,
+      "timestamp": "2026-09-20T19:51:53.902476"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 1,
+      "timestamp": "2026-09-20T19:52:07.217253"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 6,
+      "timestamp": "2026-09-20T19:51:55.607386"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 9,
+      "timestamp": "2026-09-20T19:51:59.176565"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310007",
+      "roll_no": "261310007",
+      "score": 4,
+      "timestamp": "2026-09-20T19:52:01.443752"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:10.656151"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 4,
+      "timestamp": "2026-09-20T19:58:16.406840"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:17.887515"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:17.913484"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:18.518028"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 4,
+      "timestamp": "2026-09-20T19:58:45.155628"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:19.311957"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 9,
+      "timestamp": "2026-09-20T19:58:19.935937"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:20.060565"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:20.641565"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 1,
+      "timestamp": "2026-09-20T19:58:20.663113"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:21.815778"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:47.485793"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 1,
+      "timestamp": "2026-09-20T19:58:22.322198"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 9,
+      "timestamp": "2026-09-20T19:58:23.942019"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:24.679663"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 4,
+      "timestamp": "2026-09-20T19:58:24.942477"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:25.623772"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:26.708212"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 9,
+      "timestamp": "2026-09-20T19:58:26.915965"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:27.143330"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:27.670068"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:28.210918"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:29.681204"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:30.068747"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:33.211432"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:34.729959"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:35.607442"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:36.647934"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:38.827930"
+    },
+    {
+      "voterId": "anon-83lb3clxmyas",
+      "ipAddress": "172.17.247.201",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:39.538034"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 1,
+      "timestamp": "2026-09-20T19:58:39.770337"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:40.581982"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310011",
+      "roll_no": "261310011",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:52.235321"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 1,
+      "timestamp": "2026-09-20T19:59:06.295539"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:55.329575"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:55.583642"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:55.781362"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:55.808392"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 2,
+      "timestamp": "2026-09-20T19:58:55.996677"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:56.410960"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 10,
+      "timestamp": "2026-09-20T19:58:56.882912"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 1,
+      "timestamp": "2026-09-20T19:58:58.947880"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:57.360104"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:57.552284"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.244.202",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 5,
+      "timestamp": "2026-09-20T19:58:57.626745"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:57.824179"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 3,
+      "timestamp": "2026-09-20T19:58:58.859327"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 1,
+      "timestamp": "2026-09-20T19:59:04.092691"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 1,
+      "timestamp": "2026-09-20T19:59:04.608117"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 7,
+      "timestamp": "2026-09-20T19:58:58.929331"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 2,
+      "timestamp": "2026-09-20T19:59:00.449173"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:58:59.510120"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 6,
+      "timestamp": "2026-09-20T19:58:59.649870"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 7,
+      "timestamp": "2026-09-20T19:59:01.452966"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 4,
+      "timestamp": "2026-09-20T19:59:00.801732"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 9,
+      "timestamp": "2026-09-20T19:59:01.588628"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:59:01.644201"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 10,
+      "timestamp": "2026-09-20T19:59:05.172424"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 10,
+      "timestamp": "2026-09-20T19:59:07.695701"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 9,
+      "timestamp": "2026-09-20T19:59:03.845336"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:59:04.584139"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 5,
+      "timestamp": "2026-09-20T19:59:10.102488"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:59:11.331810"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:59:14.634500"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 3,
+      "timestamp": "2026-09-20T19:59:17.898091"
+    },
+    {
+      "voterId": "anon-83lb3clxmyas",
+      "ipAddress": "172.17.247.201",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 8,
+      "timestamp": "2026-09-20T19:59:20.190737"
+    },
+    {
+      "voterId": "anon-zj5sb5jzbkot",
+      "ipAddress": "172.17.245.10",
+      "rollNo": "261310015",
+      "roll_no": "261310015",
+      "score": 5,
+      "timestamp": "2026-09-20T19:59:35.667049"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 8,
+      "timestamp": "2026-09-20T20:12:22.562618"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:24.029456"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 6,
+      "timestamp": "2026-09-20T20:12:27.183278"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 8,
+      "timestamp": "2026-09-20T20:12:27.373862"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 8,
+      "timestamp": "2026-09-20T20:12:27.569558"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 8,
+      "timestamp": "2026-09-20T20:12:29.000335"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 8,
+      "timestamp": "2026-09-20T20:12:29.544758"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:31.679628"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 6,
+      "timestamp": "2026-09-20T20:12:33.876561"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:33.935221"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 9,
+      "timestamp": "2026-09-20T20:12:34.067828"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:43.611251"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:37.196251"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 6,
+      "timestamp": "2026-09-20T20:12:38.890963"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 6,
+      "timestamp": "2026-09-20T20:12:42.550814"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 9,
+      "timestamp": "2026-09-20T20:12:44.189499"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:47.462860"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:48.898060"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:49.345487"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:52.684858"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:56.020994"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310003",
+      "roll_no": "261310003",
+      "score": 10,
+      "timestamp": "2026-09-20T20:12:56.542460"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 5,
+      "timestamp": "2026-09-20T20:12:59.752059"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:00.194662"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:00.399439"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:00.518429"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:00.998530"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:01.234686"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:01.365106"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:01.402084"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 7,
+      "timestamp": "2026-09-20T20:13:01.541862"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:01.562885"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 9,
+      "timestamp": "2026-09-20T20:13:01.989709"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:02.010668"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:02.138974"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 7,
+      "timestamp": "2026-09-20T20:13:02.345807"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:02.938697"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:04.276550"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:04.297548"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:04.320546"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:04.860251"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:05.569922"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:06.561563"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:10.378725"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:12.207526"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:14.503026"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310603",
+      "roll_no": "261310603",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:17.486856"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:18.628680"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:18.664724"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:20.798292"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 7,
+      "timestamp": "2026-09-20T20:13:21.243376"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:21.495211"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:21.844414"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:21.943835"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 7,
+      "timestamp": "2026-09-20T20:13:22.127189"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:22.352746"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 7,
+      "timestamp": "2026-09-20T20:13:22.718885"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:22.933411"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:23.369592"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:23.397848"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 9,
+      "timestamp": "2026-09-20T20:13:23.821898"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:31.335242"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:24.465777"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:26.006245"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:25.000574"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:25.723871"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:26.898098"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 9,
+      "timestamp": "2026-09-20T20:13:28.219367"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:31.553410"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:56.839944"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:33.293052"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 9,
+      "timestamp": "2026-09-20T20:13:34.539832"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310017",
+      "roll_no": "261310017",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:38.343203"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:40.587182"
+    },
+    {
+      "voterId": "anon-hr60n3ufdho3",
+      "ipAddress": "172.17.244.95",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:41.038073"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:41.351536"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:41.383527"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:41.635000"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:41.954163"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:42.039098"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 3,
+      "timestamp": "2026-09-20T20:13:42.530012"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:42.804904"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:43.332150"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 3,
+      "timestamp": "2026-09-20T20:14:08.063523"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:44.442355"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:44.469363"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:44.510356"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:45.157522"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:45.913879"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 3,
+      "timestamp": "2026-09-20T20:13:49.531274"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 2,
+      "timestamp": "2026-09-20T20:13:47.445275"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:47.768998"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 6,
+      "timestamp": "2026-09-20T20:13:48.448441"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 10,
+      "timestamp": "2026-09-20T20:13:50.864179"
+    },
+    {
+      "voterId": "anon-9h9ltai5druw",
+      "ipAddress": "172.17.244.114",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:48.901641"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 1,
+      "timestamp": "2026-09-20T20:13:52.729245"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 5,
+      "timestamp": "2026-09-20T20:13:53.495874"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 3,
+      "timestamp": "2026-09-20T20:13:53.581130"
+    },
+    {
+      "voterId": "anon-46015z8pkir0",
+      "ipAddress": "172.17.245.164",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 8,
+      "timestamp": "2026-09-20T20:13:55.161431"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 4,
+      "timestamp": "2026-09-20T20:13:57.411828"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 10,
+      "timestamp": "2026-09-20T20:14:02.661927"
+    },
+    {
+      "voterId": "anon-ll5rs70ffpzy",
+      "ipAddress": "172.17.244.120",
+      "rollNo": "261310001",
+      "roll_no": "261310001",
+      "score": 5,
+      "timestamp": "2026-09-20T20:14:04.209502"
+    },
+    {
+      "voterId": "anon-ytwouhh0dbel",
+      "ipAddress": "172.17.244.126",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:23.942552"
+    },
+    {
+      "voterId": "anon-lny92z5pdref",
+      "ipAddress": "172.17.247.214",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:19:24.564427"
+    },
+    {
+      "voterId": "anon-4wp8ugr0e6mg",
+      "ipAddress": "172.17.247.197",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:25.845588"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:26.374215"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.246.214",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:19:27.392735"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:28.641096"
+    },
+    {
+      "voterId": "anon-83lb3clxmyas",
+      "ipAddress": "172.17.247.201",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:19:28.722001"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:19:33.416436"
+    },
+    {
+      "voterId": "anon-o2wl67qpu3al",
+      "ipAddress": "172.17.244.90",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 9,
+      "timestamp": "2026-09-20T20:19:34.161127"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 9,
+      "timestamp": "2026-09-20T20:19:34.970567"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:35.597463"
+    },
+    {
+      "voterId": "anon-e974b5mxdd9d",
+      "ipAddress": "172.17.245.2",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:41.483913"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:41.831599"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:41.858210"
+    },
+    {
+      "voterId": "anon-g88t9ik2u5l0",
+      "ipAddress": "172.17.245.233",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:43.263868"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.17.247.72",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:19:43.890036"
+    },
+    {
+      "voterId": "anon-zj5sb5jzbkot",
+      "ipAddress": "172.17.247.228",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 9,
+      "timestamp": "2026-09-20T20:19:45.531678"
+    },
+    {
+      "voterId": "anon-89pjbaj7uwou",
+      "ipAddress": "172.17.246.163",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 5,
+      "timestamp": "2026-09-20T20:19:46.694849"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:50.018520"
+    },
+    {
+      "voterId": "anon-elvxn00kuszf",
+      "ipAddress": "172.17.247.172",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:51.204563"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:55.876763"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.245.139",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:19:56.240613"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:00.979700"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:01.250288"
+    },
+    {
+      "voterId": "anon-f9k9eqnmez01",
+      "ipAddress": "172.17.245.126",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:20:04.210037"
+    },
+    {
+      "voterId": "anon-2spl2pyttx67",
+      "ipAddress": "172.17.246.244",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:20:07.710003"
+    },
+    {
+      "voterId": "anon-ll5rs70ffpzy",
+      "ipAddress": "172.17.244.120",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:08.094562"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 6,
+      "timestamp": "2026-09-20T20:20:08.374694"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:10.250421"
+    },
+    {
+      "voterId": "anon-uoy47zmdttyj",
+      "ipAddress": "172.17.245.156",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:15.285581"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.30.4.239",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 8,
+      "timestamp": "2026-09-20T20:20:29.862899"
+    },
+    {
+      "voterId": "anon-3oy7d34ohgrg",
+      "ipAddress": "172.17.244.56",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 5,
+      "timestamp": "2026-09-20T20:20:32.827223"
+    },
+    {
+      "voterId": "anon-vi3d076mb6rr",
+      "ipAddress": "172.17.245.32",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:20:57.058202"
+    },
+    {
+      "voterId": "anon-4qs7vavjoa07",
+      "ipAddress": "172.23.128.83",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:21:04.370049"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310607",
+      "roll_no": "261310607",
+      "score": 10,
+      "timestamp": "2026-09-20T20:21:14.220335"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 6,
+      "timestamp": "2026-09-20T21:21:47.849094"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 6,
+      "timestamp": "2026-09-20T21:21:54.362913"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 7,
+      "timestamp": "2026-09-20T21:21:55.743888"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 9,
+      "timestamp": "2026-09-20T21:21:56.289836"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:21:59.105130"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 2,
+      "timestamp": "2026-09-20T21:21:59.544402"
+    },
+    {
+      "voterId": "anon-rirujv2zdugs",
+      "ipAddress": "172.17.244.91",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 7,
+      "timestamp": "2026-09-20T21:21:59.826970"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:21:59.954877"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 7,
+      "timestamp": "2026-09-20T21:22:01.242771"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 6,
+      "timestamp": "2026-09-20T21:22:02.159821"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.246.138",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:04.969463"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:07.792331"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 1,
+      "timestamp": "2026-09-20T21:22:07.817346"
+    },
+    {
+      "voterId": "anon-n1nw92m5eaf0",
+      "ipAddress": "172.17.246.212",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 9,
+      "timestamp": "2026-09-20T21:22:08.107227"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.30.0.228",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 7,
+      "timestamp": "2026-09-20T21:22:08.532356"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:09.483850"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:13.361479"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.245.248",
+      "rollNo": "261310614",
+      "roll_no": "261310614",
+      "score": 8,
+      "timestamp": "2026-09-20T21:22:24.388373"
+    },
+    {
+      "voterId": "anon-em22rat3ubtr",
+      "ipAddress": "172.17.246.146",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 6,
+      "timestamp": "2026-09-20T21:22:27.207854"
+    },
+    {
+      "voterId": "anon-wxlycsovuj0j",
+      "ipAddress": "172.17.245.26",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 5,
+      "timestamp": "2026-09-20T21:22:27.686599"
+    },
+    {
+      "voterId": "anon-zy5mll2ywxxw",
+      "ipAddress": "172.17.247.85",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 6,
+      "timestamp": "2026-09-20T21:22:28.664874"
+    },
+    {
+      "voterId": "anon-57luhvyqefmd",
+      "ipAddress": "172.17.245.248",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:28.693871"
+    },
+    {
+      "voterId": "anon-qgczk461dcty",
+      "ipAddress": "172.17.245.168",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:29.552530"
+    },
+    {
+      "voterId": "anon-3e60k0whtwo2",
+      "ipAddress": "172.17.247.174",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 2,
+      "timestamp": "2026-09-20T21:22:30.064067"
+    },
+    {
+      "voterId": "anon-cf4gchozdfpe",
+      "ipAddress": "172.17.246.138",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:30.226426"
+    },
+    {
+      "voterId": "anon-d2dckbe5v4ic",
+      "ipAddress": "172.30.0.53",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 7,
+      "timestamp": "2026-09-20T21:22:31.614056"
+    },
+    {
+      "voterId": "anon-tbyvb6vjdz1p",
+      "ipAddress": "172.17.247.205",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 7,
+      "timestamp": "2026-09-20T21:22:32.067048"
+    },
+    {
+      "voterId": "anon-fj14uikftzuy",
+      "ipAddress": "172.17.244.220",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 6,
+      "timestamp": "2026-09-20T21:22:32.209030"
+    },
+    {
+      "voterId": "anon-4p2ktliquetx",
+      "ipAddress": "172.17.246.108",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 1,
+      "timestamp": "2026-09-20T21:22:32.798803"
+    },
+    {
+      "voterId": "anon-rofxptdtcxn3",
+      "ipAddress": "172.17.247.198",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:36.842809"
+    },
+    {
+      "voterId": "anon-l88opwnbdj9p",
+      "ipAddress": "172.17.246.162",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:37.325679"
+    },
+    {
+      "voterId": "anon-ll5rs70ffpzy",
+      "ipAddress": "172.17.244.120",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 8,
+      "timestamp": "2026-09-20T21:22:37.574999"
+    },
+    {
+      "voterId": "anon-y03wuqihu3po",
+      "ipAddress": "172.17.246.128",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 4,
+      "timestamp": "2026-09-20T21:22:38.283160"
+    },
+    {
+      "voterId": "anon-ori6lbwxeswm",
+      "ipAddress": "172.17.244.94",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 10,
+      "timestamp": "2026-09-20T21:22:44.615307"
+    },
+    {
+      "voterId": "anon-8iwqb8wevvub",
+      "ipAddress": "172.17.244.119",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 6,
+      "timestamp": "2026-09-20T21:22:51.917217"
+    },
+    {
+      "voterId": "anon-j8emgp70dut1",
+      "ipAddress": "172.30.0.228",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 7,
+      "timestamp": "2026-09-20T21:22:53.674299"
+    },
+    {
+      "voterId": "anon-qt82sclcdcmw",
+      "ipAddress": "172.17.247.9",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 8,
+      "timestamp": "2026-09-20T21:22:54.343559"
+    },
+    {
+      "voterId": "anon-ns5gspdtdoyc",
+      "ipAddress": "172.17.247.207",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 7,
+      "timestamp": "2026-09-20T21:23:02.129567"
+    },
+    {
+      "voterId": "anon-zo6y0d1kdc1o",
+      "ipAddress": "172.17.244.255",
+      "rollNo": "261310609",
+      "roll_no": "261310609",
+      "score": 8,
+      "timestamp": "2026-09-20T21:23:45.977584"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-1789899681587",
+      "title": "Enact a Scene - 3 Idiots"
+    },
+    {
+      "id": "task-1789899728133",
+      "title": "Ch*du CID"
+    },
+    {
+      "id": "task-1789899766391",
+      "title": "Bharat Desh Mein Aaya Bhookamp"
+    },
+    {
+      "id": "task-1789899775169",
+      "title": "Propose A Senior"
+    },
+    {
+      "id": "task-1789899782861",
+      "title": "Prank Call"
+    },
+    {
+      "id": "task-1789899796397",
+      "title": "Debate Tem"
+    },
+    {
+      "id": "task-1789899806297",
+      "title": "Improv Comedy"
+    },
+    {
+      "id": "task-1789899824806",
+      "title": "NatGeo Commentary"
+    },
+    {
+      "id": "task-1789899838228",
+      "title": "Ban Jaao Nashedi Nikaal Do Hekdi"
+    },
+    {
+      "id": "task-1789899850822",
+      "title": "Dance On A Bhojpuri Song"
+    },
+    {
+      "id": "task-1789899870284",
+      "title": "Mimic 2+ Faculties"
+    },
+    {
+      "id": "task-1789899888646",
+      "title": "Enact A Scene - De Dana Dan"
+    },
+    {
+      "id": "task-1789899956200",
+      "title": "Court Kachehri"
+    },
+    {
+      "id": "task-1789900039708",
+      "title": "Chinese Whispers"
+    },
+    {
+      "id": "task-1789914159937",
+      "title": "Debate"
+    },
+    {
+      "id": "task-1789919014193",
+      "title": "Scene - Gangs of Wasseypur"
+    },
+    {
+      "id": "task-1789920887920",
+      "title": "Tongue Twister - Peter Piper picked a peck of pickled peppers"
+    }
+  ]
+}
